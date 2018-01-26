@@ -8,7 +8,7 @@ class ToDo extends Component {
                 <span>{ this.props.description }</span>
             </li>
         );
-    }
+    } 
 }
 
 export default ToDo;
